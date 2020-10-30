@@ -1,0 +1,19 @@
+h1{
+    color: #ffffff;
+    background-color: black;
+    text-align: center;    
+}
+h2{
+    color: white;
+    background-color: darkseagreen;
+    text-align: center;  
+}
+h3{
+        color: aqua;
+}
+p{
+     color: burlywood;
+}
+body{
+    background-image:  url(../images/kadai3.jpg);
+}
